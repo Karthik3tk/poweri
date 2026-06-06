@@ -47,3 +47,5 @@ The dashboard provides a comprehensive overview of transaction activities throug
 
 
 dashboard:- 
+
+https://raw.githubusercontent.com/Karthik3tk/poweri/refs/heads/main/Screenshot%202026-06-06%20120806.png
